@@ -1,0 +1,1890 @@
+[
+{
+"id": "cmd1",
+"sec": "cmd",
+"n": 1,
+"page": 111,
+"name": "讓路給大路上的車輛",
+"ok": true
+},
+{
+"id": "cmd2",
+"sec": "cmd",
+"n": 2,
+"page": 111,
+"name": "停車及讓路",
+"ok": true
+},
+{
+"id": "cmd3",
+"sec": "cmd",
+"n": 3,
+"page": 111,
+"name": "只准向前駛",
+"ok": true
+},
+{
+"id": "cmd4",
+"sec": "cmd",
+"n": 4,
+"page": 111,
+"name": "靠左行駛反則靠右行駛）",
+"ok": true
+},
+{
+"id": "cmd5",
+"sec": "cmd",
+"n": 5,
+"page": 111,
+"name": "左轉（符號方向相反則右轉）",
+"ok": true
+},
+{
+"id": "cmd6",
+"sec": "cmd",
+"n": 6,
+"page": 111,
+"name": "前面路口左轉（符號方向相反則右轉）",
+"ok": true
+},
+{
+"id": "cmd7",
+"sec": "cmd",
+"n": 7,
+"page": 111,
+"name": "不准停車",
+"ok": true
+},
+{
+"id": "cmd8",
+"sec": "cmd",
+"n": 8,
+"page": 111,
+"name": "不准泊車",
+"ok": true
+},
+{
+"id": "cmd9",
+"sec": "cmd",
+"n": 9,
+"page": 111,
+"name": "所有車輛不准駛入",
+"ok": true
+},
+{
+"id": "cmd10",
+"sec": "cmd",
+"n": 10,
+"page": 111,
+"name": "單程行車",
+"ok": true
+},
+{
+"id": "cmd11",
+"sec": "cmd",
+"n": 11,
+"page": 111,
+"name": "車輛須於標誌前停車（警方使用的標誌）",
+"ok": true
+},
+{
+"id": "cmd12",
+"sec": "cmd",
+"n": 12,
+"page": 111,
+"name": "車輛須於標誌前停車（學校交通安全隊使用的標誌）",
+"ok": true
+},
+{
+"id": "cmd13",
+"sec": "cmd",
+"n": 13,
+"page": 111,
+"name": "不准換線",
+"ok": true
+},
+{
+"id": "cmd14",
+"sec": "cmd",
+"n": 14,
+"page": 111,
+"name": "分隔行人路及單車或三輪車徑，禁止汽車駛入",
+"ok": true
+},
+{
+"id": "cmd15",
+"sec": "cmd",
+"n": 15,
+"page": 111,
+"name": "單車或三輪車徑，禁止汽車駛入",
+"ok": true
+},
+{
+"id": "cmd16",
+"sec": "cmd",
+"n": 16,
+"page": 111,
+"name": "分隔行人路及供多輪車使用的場地，禁止汽車駛入",
+"ok": true
+},
+{
+"id": "cmd17",
+"sec": "cmd",
+"n": 17,
+"page": 111,
+"name": "供多輪車使用的場地，禁止汽車駛入",
+"ok": true
+},
+{
+"id": "cmd18",
+"sec": "cmd",
+"n": 18,
+"page": 111,
+"name": "限制騎單車—騎單車或三輪車者必須下車",
+"ok": true
+},
+{
+"id": "cmd19",
+"sec": "cmd",
+"n": 19,
+"page": 111,
+"name": "限制騎單車的終止",
+"ok": true
+},
+{
+"id": "cmd20",
+"sec": "cmd",
+"n": 20,
+"page": 111,
+"name": "只限輕鐵車輛或電車駛入",
+"ok": true
+},
+{
+"id": "cmd21",
+"sec": "cmd",
+"n": 21,
+"page": 111,
+"name": "",
+"ok": false
+},
+{
+"id": "cmd22",
+"sec": "cmd",
+"n": 22,
+"page": 111,
+"name": "",
+"ok": false
+},
+{
+"id": "cmd23",
+"sec": "cmd",
+"n": 23,
+"page": 111,
+"name": "",
+"ok": false
+},
+{
+"id": "cmd24",
+"sec": "cmd",
+"n": 24,
+"page": 111,
+"name": "",
+"ok": false
+},
+{
+"id": "cmd25",
+"sec": "cmd",
+"n": 25,
+"page": 111,
+"name": "",
+"ok": false
+},
+{
+"id": "cmd26",
+"sec": "cmd",
+"n": 26,
+"page": 111,
+"name": "",
+"ok": false
+},
+{
+"id": "cmd27",
+"sec": "cmd",
+"n": 27,
+"page": 111,
+"name": "「",
+"ok": false
+},
+{
+"id": "cmd28",
+"sec": "cmd",
+"n": 28,
+"page": 111,
+"name": "",
+"ok": false
+},
+{
+"id": "cmd29",
+"sec": "cmd",
+"n": 29,
+"page": 111,
+"name": "公共小",
+"ok": true
+},
+{
+"id": "cmd30",
+"sec": "cmd",
+"n": 30,
+"page": 111,
+"name": "限制並不適用",
+"ok": true
+},
+{
+"id": "cmd31",
+"sec": "cmd",
+"n": 31,
+"page": 112,
+"name": "行人優先使用區",
+"ok": true
+},
+{
+"id": "cmd32",
+"sec": "cmd",
+"n": 32,
+"page": 112,
+"name": "根據輔助字牌指明，禁止車輛駛入",
+"ok": true
+},
+{
+"id": "cmd33",
+"sec": "cmd",
+"n": 33,
+"page": 112,
+"name": "禁止汽車駛入",
+"ok": true
+},
+{
+"id": "cmd34",
+"sec": "cmd",
+"n": 34,
+"page": 112,
+"name": "禁止汽車駛入，電單車及機動三輪車除外",
+"ok": true
+},
+{
+"id": "cmd35",
+"sec": "cmd",
+"n": 35,
+"page": 112,
+"name": "禁止電單車及機動三輪車駛入",
+"ok": true
+},
+{
+"id": "cmd36",
+"sec": "cmd",
+"n": 36,
+"page": 112,
+"name": "禁止巴士及旅遊車駛入",
+"ok": true
+},
+{
+"id": "cmd37",
+"sec": "cmd",
+"n": 37,
+"page": 112,
+"name": "禁止公共小型巴士駛入",
+"ok": true
+},
+{
+"id": "cmd38",
+"sec": "cmd",
+"n": 38,
+"page": 112,
+"name": "禁止貨車駛入",
+"ok": true
+},
+{
+"id": "cmd39",
+"sec": "cmd",
+"n": 39,
+"page": 112,
+"name": "禁止由學習駕駛人駕駛的汽車駛入",
+"ok": true
+},
+{
+"id": "cmd40",
+"sec": "cmd",
+"n": 40,
+"page": 112,
+"name": "不准左轉（符號方向相反，則不准右轉）",
+"ok": true
+},
+{
+"id": "cmd41",
+"sec": "cmd",
+"n": 41,
+"page": 112,
+"name": "不准掉頭",
+"ok": true
+},
+{
+"id": "cmd42",
+"sec": "cmd",
+"n": 42,
+"page": 112,
+"name": "行人止步",
+"ok": true
+},
+{
+"id": "cmd43",
+"sec": "cmd",
+"n": 43,
+"page": 112,
+"name": "禁止行人、徒步控制的車輛、單車及三輪車進入",
+"ok": true
+},
+{
+"id": "cmd44",
+"sec": "cmd",
+"n": 44,
+"page": 112,
+"name": "禁止單車及三輪車進入",
+"ok": true
+},
+{
+"id": "cmd45",
+"sec": "cmd",
+"n": 45,
+"page": 112,
+"name": "禁止響號",
+"ok": true
+},
+{
+"id": "cmd46",
+"sec": "cmd",
+"n": 46,
+"page": 112,
+"name": "不准超車",
+"ok": true
+},
+{
+"id": "cmd47",
+"sec": "cmd",
+"n": 47,
+"page": 112,
+"name": "禁止超過所示闊度的車輛駛入",
+"ok": true
+},
+{
+"id": "cmd48",
+"sec": "cmd",
+"n": 48,
+"page": 112,
+"name": "禁止超過所示長度（包括貨物）的車輛或車輛組合駛入",
+"ok": true
+},
+{
+"id": "cmd49",
+"sec": "cmd",
+"n": 49,
+"page": 112,
+"name": "禁止超過所示高度（包括貨物）的車輛駛入",
+"ok": true
+},
+{
+"id": "cmd50",
+"sec": "cmd",
+"n": 50,
+"page": 112,
+"name": "禁止超過所示總重量（包括貨物）的車輛駛入",
+"ok": true
+},
+{
+"id": "cmd51",
+"sec": "cmd",
+"n": 51,
+"page": 112,
+"name": "禁止超過所示車軸",
+"ok": true
+},
+{
+"id": "cmd52",
+"sec": "cmd",
+"n": 52,
+"page": 112,
+"name": "速度限制（以公里",
+"ok": true
+},
+{
+"id": "cmd53",
+"sec": "cmd",
+"n": 53,
+"page": 112,
+"name": "可變速度限制（以",
+"ok": true
+},
+{
+"id": "cmd54",
+"sec": "cmd",
+"n": 54,
+"page": 112,
+"name": "禁止並不適用於需",
+"ok": true
+},
+{
+"id": "cmd55",
+"sec": "cmd",
+"n": 55,
+"page": 112,
+"name": "禁止或強制適用於",
+"ok": true
+},
+{
+"id": "cmd56",
+"sec": "cmd",
+"n": 56,
+"page": 112,
+"name": "禁止或強制適用於",
+"ok": true
+},
+{
+"id": "cmd57",
+"sec": "cmd",
+"n": 57,
+"page": 112,
+"name": "禁止或強制並不適",
+"ok": true
+},
+{
+"id": "cmd58",
+"sec": "cmd",
+"n": 58,
+"page": 112,
+"name": "適用時間",
+"ok": true
+},
+{
+"id": "cmd59",
+"sec": "cmd",
+"n": 59,
+"page": 112,
+"name": "適用日子",
+"ok": true
+},
+{
+"id": "cmd60",
+"sec": "cmd",
+"n": 60,
+"page": 112,
+"name": "適用日子及時間",
+"ok": true
+},
+{
+"id": "cmd61",
+"sec": "cmd",
+"n": 61,
+"page": 113,
+"name": "",
+"ok": false
+},
+{
+"id": "cmd62",
+"sec": "cmd",
+"n": 62,
+"page": 113,
+"name": "",
+"ok": false
+},
+{
+"id": "cmd65",
+"sec": "cmd",
+"n": 65,
+"page": 113,
+"name": "",
+"ok": false
+},
+{
+"id": "cmd66",
+"sec": "cmd",
+"n": 66,
+"page": 113,
+"name": "",
+"ok": false
+},
+{
+"id": "cmd67",
+"sec": "cmd",
+"n": 67,
+"page": 113,
+"name": "",
+"ok": false
+},
+{
+"id": "cmd68",
+"sec": "cmd",
+"n": 68,
+"page": 113,
+"name": "",
+"ok": false
+},
+{
+"id": "cmd63",
+"sec": "cmd",
+"n": 63,
+"page": 113,
+"name": "左線在所示時間內為巴士線，只准專營巴士駛入",
+"ok": true
+},
+{
+"id": "cmd64",
+"sec": "cmd",
+"n": 64,
+"page": 113,
+"name": "左線在所示時間內為巴士線，只准專營巴士及其他巴士駛入",
+"ok": true
+},
+{
+"id": "cmd69",
+"sec": "cmd",
+"n": 69,
+"page": 113,
+"name": "",
+"ok": false
+},
+{
+"id": "cmd70",
+"sec": "cmd",
+"n": 70,
+"page": 113,
+"name": "",
+"ok": false
+},
+{
+"id": "cmd71",
+"sec": "cmd",
+"n": 71,
+"page": 113,
+"name": "隧道區終止",
+"ok": true
+},
+{
+"id": "cmd72",
+"sec": "cmd",
+"n": 72,
+"page": 113,
+"name": "",
+"ok": false
+},
+{
+"id": "cmd73",
+"sec": "cmd",
+"n": 73,
+"page": 113,
+"name": "",
+"ok": false
+},
+{
+"id": "cmd74",
+"sec": "cmd",
+"n": 74,
+"page": 113,
+"name": "標誌上所指定類別或種類型的車輛泊車處",
+"ok": true
+},
+{
+"id": "cmd75",
+"sec": "cmd",
+"n": 75,
+"page": 113,
+"name": "",
+"ok": false
+},
+{
+"id": "cmd76",
+"sec": "cmd",
+"n": 76,
+"page": 113,
+"name": "",
+"ok": false
+},
+{
+"id": "cmd77",
+"sec": "cmd",
+"n": 77,
+"page": 113,
+"name": "",
+"ok": false
+},
+{
+"id": "cmd78",
+"sec": "cmd",
+"n": 78,
+"page": 113,
+"name": "",
+"ok": false
+},
+{
+"id": "cmd79",
+"sec": "cmd",
+"n": 79,
+"page": 113,
+"name": "",
+"ok": false
+},
+{
+"id": "cmd80",
+"sec": "cmd",
+"n": 80,
+"page": 113,
+"name": "",
+"ok": false
+},
+{
+"id": "cmd81",
+"sec": "cmd",
+"n": 81,
+"page": 113,
+"name": "",
+"ok": false
+},
+{
+"id": "cmd82",
+"sec": "cmd",
+"n": 82,
+"page": 113,
+"name": "",
+"ok": false
+},
+{
+"id": "cmd83",
+"sec": "cmd",
+"n": 83,
+"page": 113,
+"name": "",
+"ok": false
+},
+{
+"id": "cmd84",
+"sec": "cmd",
+"n": 84,
+"page": 114,
+"name": "新界的士站，連同標誌82使用",
+"ok": true
+},
+{
+"id": "cmd85",
+"sec": "cmd",
+"n": 85,
+"page": 114,
+"name": "大嶼山的士站，連同標誌82使用",
+"ok": true
+},
+{
+"id": "cmd86",
+"sec": "cmd",
+"n": 86,
+"page": 114,
+"name": "過海的士站，連同標誌82使用",
+"ok": true
+},
+{
+"id": "cmd87",
+"sec": "cmd",
+"n": 87,
+"page": 114,
+"name": "新界的士營業範圍終止",
+"ok": true
+},
+{
+"id": "cmd88",
+"sec": "cmd",
+"n": 88,
+"page": 114,
+"name": "大嶼山的士營業範圍終止",
+"ok": true
+},
+{
+"id": "cmd89",
+"sec": "cmd",
+"n": 89,
+"page": 114,
+"name": "綠色專線小巴停車處",
+"ok": true
+},
+{
+"id": "cmd90",
+"sec": "cmd",
+"n": 90,
+"page": 114,
+"name": "綠色專線小巴站",
+"ok": true
+},
+{
+"id": "cmd91",
+"sec": "cmd",
+"n": 91,
+"page": 114,
+"name": "紅色小巴停車處",
+"ok": true
+},
+{
+"id": "cmd92",
+"sec": "cmd",
+"n": 92,
+"page": 114,
+"name": "紅色小巴站",
+"ok": true
+},
+{
+"id": "cmd93",
+"sec": "cmd",
+"n": 93,
+"page": 114,
+"name": "除超車外，須使用最左線行駛",
+"ok": true
+},
+{
+"id": "cmd94",
+"sec": "cmd",
+"n": 94,
+"page": 114,
+"name": "的士站時間字牌，其他時間則准許的士泊車",
+"ok": true
+},
+{
+"id": "cmd95",
+"sec": "cmd",
+"n": 95,
+"page": 114,
+"name": "公共小型巴士站時間字牌，其他時間則准許公共小型巴士泊車",
+"ok": true
+},
+{
+"id": "cmd96",
+"sec": "cmd",
+"n": 96,
+"page": 114,
+"name": "路肩—除緊急事故外，不准駛入",
+"ok": true
+},
+{
+"id": "cmd97",
+"sec": "cmd",
+"n": 97,
+"page": 114,
+"name": "避車處，",
+"ok": false
+},
+{
+"id": "cmd98",
+"sec": "cmd",
+"n": 98,
+"page": 114,
+"name": "",
+"ok": false
+},
+{
+"id": "cmd99",
+"sec": "cmd",
+"n": 99,
+"page": 114,
+"name": "",
+"ok": false
+},
+{
+"id": "cmd100",
+"sec": "cmd",
+"n": 100,
+"page": 114,
+"name": "",
+"ok": false
+},
+{
+"id": "cmd101",
+"sec": "cmd",
+"n": 101,
+"page": 114,
+"name": "",
+"ok": false
+},
+{
+"id": "cmd102",
+"sec": "cmd",
+"n": 102,
+"page": 114,
+"name": "",
+"ok": false
+},
+{
+"id": "cmd103",
+"sec": "cmd",
+"n": 103,
+"page": 114,
+"name": "",
+"ok": false
+},
+{
+"id": "cmd104",
+"sec": "cmd",
+"n": 104,
+"page": 114,
+"name": "",
+"ok": false
+},
+{
+"id": "sig1",
+"sec": "sig",
+"n": 1,
+"page": 115,
+"name": "在「停車」線前車」線前停車停車，預備綠燈亮起時開車",
+"ok": true
+},
+{
+"id": "sig2",
+"sec": "sig",
+"n": 2,
+"page": 115,
+"name": "在「停車」線前阻，方可停車，預前進備綠燈亮起時開車",
+"ok": true
+},
+{
+"id": "sig3",
+"sec": "sig",
+"n": 3,
+"page": 115,
+"name": "前路無阻，方可示，只准左前進轉車通行",
+"ok": true
+},
+{
+"id": "sig4",
+"sec": "sig",
+"n": 4,
+"page": 115,
+"name": "按箭嘴指示，只准左轉車通行",
+"ok": true
+},
+{
+"id": "sig5",
+"sec": "sig",
+"n": 5,
+"page": 115,
+"name": "只准左轉車通行前駛車輛通行",
+"ok": true
+},
+{
+"id": "sig6",
+"sec": "sig",
+"n": 6,
+"page": 115,
+"name": "只准向前駛車輛轉車通行通行",
+"ok": true
+},
+{
+"id": "sig7",
+"sec": "sig",
+"n": 7,
+"page": 115,
+"name": "只准右轉車通行停車可能會引致意外，否則須於「停車」線前",
+"ok": true
+},
+{
+"id": "sig8",
+"sec": "sig",
+"n": 8,
+"page": 115,
+"name": "除非停車可能專用交通會引致意燈號外，否則須於「停車」線前",
+"ok": true
+},
+{
+"id": "sig9",
+"sec": "sig",
+"n": 9,
+"page": 115,
+"name": "電車專用交通燈號",
+"ok": true
+},
+{
+"id": "sig10",
+"sec": "sig",
+"n": 10,
+"page": 115,
+"name": "輕鐵車輛專用交通燈號",
+"ok": true
+},
+{
+"id": "sig11",
+"sec": "sig",
+"n": 11,
+"page": 115,
+"name": "燈號交替閃動時，必須停車",
+"ok": true
+},
+{
+"id": "sig12",
+"sec": "sig",
+"n": 12,
+"page": 115,
+"name": "切勿在此信號後繼續沿此線前進",
+"ok": true
+},
+{
+"id": "sig13",
+"sec": "sig",
+"n": 13,
+"page": 115,
+"name": "在安全情況下，繼續沿此線前進",
+"ok": true
+},
+{
+"id": "sig14",
+"sec": "sig",
+"n": 14,
+"page": 115,
+"name": "轉換往左邊行車線行駛",
+"ok": true
+},
+{
+"id": "sig15",
+"sec": "sig",
+"n": 15,
+"page": 115,
+"name": "轉換往右邊行車線行駛",
+"ok": true
+},
+{
+"id": "sig16",
+"sec": "sig",
+"n": 16,
+"page": 115,
+"name": "從前方左面下一個出口離開快速公路",
+"ok": true
+},
+{
+"id": "sig17",
+"sec": "sig",
+"n": 17,
+"page": 115,
+"name": "從前方右面下一個出口離開快速公路",
+"ok": true
+},
+{
+"id": "sig18",
+"sec": "sig",
+"n": 18,
+"page": 115,
+"name": "切勿在此信號後繼續沿此線前進",
+"ok": true
+},
+{
+"id": "sig19",
+"sec": "sig",
+"n": 19,
+"page": 115,
+"name": "警告信號—慢駛及隨時準備停車",
+"ok": true
+},
+{
+"id": "sig20",
+"sec": "sig",
+"n": 20,
+"page": 115,
+"name": "在安全情況下，繼續沿此線前進",
+"ok": true
+},
+{
+"id": "sig21",
+"sec": "sig",
+"n": 21,
+"page": 115,
+"name": "",
+"ok": false
+},
+{
+"id": "sig22",
+"sec": "sig",
+"n": 22,
+"page": 115,
+"name": "",
+"ok": false
+},
+{
+"id": "sig23",
+"sec": "sig",
+"n": 23,
+"page": 115,
+"name": "",
+"ok": false
+},
+{
+"id": "sig24",
+"sec": "sig",
+"n": 24,
+"page": 115,
+"name": "",
+"ok": false
+},
+{
+"id": "sig25",
+"sec": "sig",
+"n": 25,
+"page": 115,
+"name": "",
+"ok": false
+},
+{
+"id": "warn1",
+"sec": "warn",
+"n": 1,
+"page": 116,
+"name": "前面有",
+"ok": true
+},
+{
+"id": "warn2",
+"sec": "warn",
+"n": 2,
+"page": 116,
+"name": "離「讓路」3.線的距離，連同標誌1使用",
+"ok": true
+},
+{
+"id": "warn5",
+"sec": "warn",
+"n": 5,
+"page": 116,
+"name": "轉左彎連同「開始減速」標誌（符號方向相反則為右彎）",
+"ok": true
+},
+{
+"id": "warn6",
+"sec": "warn",
+"n": 6,
+"page": 116,
+"name": "前面先右轉的連續彎路（符號方向可以相反）",
+"ok": true
+},
+{
+"id": "warn7",
+"sec": "warn",
+"n": 7,
+"page": 116,
+"name": "前面分隔車路終止",
+"ok": true
+},
+{
+"id": "warn8",
+"sec": "warn",
+"n": 8,
+"page": 116,
+"name": "前面有迴旋處",
+"ok": true
+},
+{
+"id": "warn9",
+"sec": "warn",
+"n": 9,
+"page": 116,
+"name": "前面道路右邊收窄相反則左邊收窄）",
+"ok": true
+},
+{
+"id": "warn10",
+"sec": "warn",
+"n": 10,
+"page": 116,
+"name": "前面道路兩邊收窄",
+"ok": true
+},
+{
+"id": "warn11",
+"sec": "warn",
+"n": 11,
+"page": 116,
+"name": "開始減速",
+"ok": true
+},
+{
+"id": "warn12",
+"sec": "warn",
+"n": 12,
+"page": 116,
+"name": "前面降低速度限制如標誌所示",
+"ok": true
+},
+{
+"id": "warn13",
+"sec": "warn",
+"n": 13,
+"page": 116,
+"name": "道路向左急轉相反則為",
+"ok": true
+},
+{
+"id": "warn14",
+"sec": "warn",
+"n": 14,
+"page": 116,
+"name": "前面有交通燈號",
+"ok": true
+},
+{
+"id": "warn15",
+"sec": "warn",
+"n": 15,
+"page": 116,
+"name": "前面有向上斜路",
+"ok": true
+},
+{
+"id": "warn16",
+"sec": "warn",
+"n": 16,
+"page": 116,
+"name": "前面有向下斜路",
+"ok": true
+},
+{
+"id": "warn17",
+"sec": "warn",
+"n": 17,
+"page": 116,
+"name": "低波行車",
+"ok": true
+},
+{
+"id": "warn18",
+"sec": "warn",
+"n": 18,
+"page": 116,
+"name": "在所示距離內用低波行車",
+"ok": true
+},
+{
+"id": "warn19",
+"sec": "warn",
+"n": 19,
+"page": 116,
+"name": "繼續用低波行車",
+"ok": true
+},
+{
+"id": "warn20",
+"sec": "warn",
+"n": 20,
+"page": 116,
+"name": "前面單排行車",
+"ok": true
+},
+{
+"id": "warn21",
+"sec": "warn",
+"n": 21,
+"page": 116,
+"name": "單車應靠左駛",
+"ok": true
+},
+{
+"id": "warn22",
+"sec": "warn",
+"n": 22,
+"page": 116,
+"name": "騎單車者應在斜路前下",
+"ok": true
+},
+{
+"id": "warn23",
+"sec": "warn",
+"n": 23,
+"page": 116,
+"name": "前面有交通",
+"ok": true
+},
+{
+"id": "warn24",
+"sec": "warn",
+"n": 24,
+"page": 116,
+"name": "前面有行人",
+"ok": true
+},
+{
+"id": "warn25",
+"sec": "warn",
+"n": 25,
+"page": 116,
+"name": "前面有十字",
+"ok": true
+},
+{
+"id": "warn26",
+"sec": "warn",
+"n": 26,
+"page": 116,
+"name": "前面有先左",
+"ok": true
+},
+{
+"id": "warn27",
+"sec": "warn",
+"n": 27,
+"page": 116,
+"name": "前面右邊有",
+"ok": true
+},
+{
+"id": "warn28",
+"sec": "warn",
+"n": 28,
+"page": 117,
+"name": "前面有Ｔ型路口（符號方向可以相反）",
+"ok": true
+},
+{
+"id": "warn29",
+"sec": "warn",
+"n": 29,
+"page": 117,
+"name": "左方車輛併入",
+"ok": true
+},
+{
+"id": "warn30",
+"sec": "warn",
+"n": 30,
+"page": 117,
+"name": "與右方大路車輛匯合（如屬非快速公路，標誌採用藍色底色）",
+"ok": true
+},
+{
+"id": "warn31",
+"sec": "warn",
+"n": 31,
+"page": 117,
+"name": "左方支路車輛併入從支路匯入的車輛，",
+"ok": false
+},
+{
+"id": "warn32",
+"sec": "warn",
+"n": 32,
+"page": 117,
+"name": "與右方大路車輛匯合",
+"ok": true
+},
+{
+"id": "warn33",
+"sec": "warn",
+"n": 33,
+"page": 117,
+"name": "前面有架空電纜",
+"ok": true
+},
+{
+"id": "warn34",
+"sec": "warn",
+"n": 34,
+"page": 117,
+"name": "前面有殘疾人士",
+"ok": true
+},
+{
+"id": "warn35",
+"sec": "warn",
+"n": 35,
+"page": 117,
+"name": "前面設置閘門或柵欄的平交道口",
+"ok": true
+},
+{
+"id": "warn36",
+"sec": "warn",
+"n": 36,
+"page": 117,
+"name": "前面為岸邊或河邊",
+"ok": true
+},
+{
+"id": "warn37",
+"sec": "warn",
+"n": 37,
+"page": 117,
+"name": "前面有通行高度限制",
+"ok": true
+},
+{
+"id": "warn38",
+"sec": "warn",
+"n": 38,
+"page": 117,
+"name": "前面有行人過路處",
+"ok": true
+},
+{
+"id": "warn39",
+"sec": "warn",
+"n": 39,
+"page": 117,
+"name": "前面有兒童",
+"ok": true
+},
+{
+"id": "warn40",
+"sec": "warn",
+"n": 40,
+"page": 117,
+"name": "前面可能有石塊或有石塊下墜的危險",
+"ok": true
+},
+{
+"id": "warn41",
+"sec": "warn",
+"n": 41,
+"page": 117,
+"name": "前面有馬匹",
+"ok": true
+},
+{
+"id": "warn42",
+"sec": "warn",
+"n": 42,
+"page": 117,
+"name": "前面有牛隻",
+"ok": true
+},
+{
+"id": "warn43",
+"sec": "warn",
+"n": 43,
+"page": 117,
+"name": "前面有霧",
+"ok": true
+},
+{
+"id": "warn44",
+"sec": "warn",
+"n": 44,
+"page": 117,
+"name": "前面有巴士線（專營巴士）",
+"ok": true
+},
+{
+"id": "warn45",
+"sec": "warn",
+"n": 45,
+"page": 117,
+"name": "前面有巴士線（所有巴士）",
+"ok": true
+},
+{
+"id": "warn46",
+"sec": "warn",
+"n": 46,
+"page": 117,
+"name": "前面大路有巴士線（專營巴士）",
+"ok": true
+},
+{
+"id": "warn47",
+"sec": "warn",
+"n": 47,
+"page": 117,
+"name": "前面大路有巴士線（所有巴士）",
+"ok": true
+},
+{
+"id": "warn48",
+"sec": "warn",
+"n": 48,
+"page": 117,
+"name": "向橫過有巴士線的道路的行人發出警告",
+"ok": true
+},
+{
+"id": "warn49",
+"sec": "warn",
+"n": 49,
+"page": 117,
+"name": "前面有",
+"ok": true
+},
+{
+"id": "warn52",
+"sec": "warn",
+"n": 52,
+"page": 117,
+"name": "前面",
+"ok": false
+},
+{
+"id": "warn53",
+"sec": "warn",
+"n": 53,
+"page": 117,
+"name": "前面",
+"ok": false
+},
+{
+"id": "warn54",
+"sec": "warn",
+"n": 54,
+"page": 117,
+"name": "前面有",
+"ok": true
+},
+{
+"id": "warn55",
+"sec": "warn",
+"n": 55,
+"page": 117,
+"name": "前面路",
+"ok": true
+},
+{
+"id": "warn56",
+"sec": "warn",
+"n": 56,
+"page": 117,
+"name": "前面",
+"ok": false
+},
+{
+"id": "warn57",
+"sec": "warn",
+"n": 57,
+"page": 117,
+"name": "前面雙",
+"ok": true
+},
+{
+"id": "warn58",
+"sec": "warn",
+"n": 58,
+"page": 117,
+"name": "前面雙",
+"ok": true
+},
+{
+"id": "warn50",
+"sec": "warn",
+"n": 50,
+"page": 117,
+"name": "前面",
+"ok": false
+},
+{
+"id": "warn51",
+"sec": "warn",
+"n": 51,
+"page": 117,
+"name": "前面",
+"ok": false
+},
+{
+"id": "warn59",
+"sec": "warn",
+"n": 59,
+"page": 118,
+"name": "前面有衝紅燈攝影機／偵速攝影機",
+"ok": true
+},
+{
+"id": "warn60",
+"sec": "warn",
+"n": 60,
+"page": 118,
+"name": "衝紅燈攝影機管制區",
+"ok": true
+},
+{
+"id": "warn61",
+"sec": "warn",
+"n": 61,
+"page": 118,
+"name": "安全高度字牌，連同標誌33使用",
+"ok": true
+},
+{
+"id": "warn62",
+"sec": "warn",
+"n": 62,
+"page": 118,
+"name": "前面有學校，連同標誌39使用",
+"ok": true
+},
+{
+"id": "warn63",
+"sec": "warn",
+"n": 63,
+"page": 118,
+"name": "前面有遊樂場，連同標誌39使用",
+"ok": true
+},
+{
+"id": "warn64",
+"sec": "warn",
+"n": 64,
+"page": 118,
+"name": "顯示與危險處之間相隔的距離",
+"ok": true
+},
+{
+"id": "warn65",
+"sec": "warn",
+"n": 65,
+"page": 118,
+"name": "紅色—在車路的左邊緣—或該邊緣附近的障礙物）",
+"ok": true
+},
+{
+"id": "warn66",
+"sec": "warn",
+"n": 66,
+"page": 118,
+"name": "白色—在不分隔車路的右邊緣",
+"ok": true
+},
+{
+"id": "warn67",
+"sec": "warn",
+"n": 67,
+"page": 118,
+"name": "琥珀色—在分隔車路的中央分隔帶的右邊緣",
+"ok": true
+},
+{
+"id": "tmp1",
+"sec": "tmp",
+"n": 1,
+"page": 119,
+"name": "前面右線封閉（標誌1至4的紅色橫條表示該線封閉）",
+"ok": true
+},
+{
+"id": "tmp2",
+"sec": "tmp",
+"n": 2,
+"page": 119,
+"name": "前面右線封閉",
+"ok": true
+},
+{
+"id": "tmp3",
+"sec": "tmp",
+"n": 3,
+"page": 119,
+"name": "前面只能使用左線",
+"ok": true
+},
+{
+"id": "tmp4",
+"sec": "tmp",
+"n": 4,
+"page": 119,
+"name": "前面雙程道路只能使用左線",
+"ok": true
+},
+{
+"id": "tmp5",
+"sec": "tmp",
+"n": 5,
+"page": 119,
+"name": "前面有道路工程",
+"ok": true
+},
+{
+"id": "tmp6",
+"sec": "tmp",
+"n": 6,
+"page": 119,
+"name": "前面改道至右邊車路相反）",
+"ok": true
+},
+{
+"id": "tmp7",
+"sec": "tmp",
+"n": 7,
+"page": 119,
+"name": "靠右行駛反則靠左行駛）",
+"ok": true
+},
+{
+"id": "tmp8",
+"sec": "tmp",
+"n": 8,
+"page": 119,
+"name": "車輛可取道任何一邊到達同一目的地",
+"ok": true
+},
+{
+"id": "tmp9",
+"sec": "tmp",
+"n": 9,
+"page": 119,
+"name": "前面道路左邊收窄反則右邊收窄）",
+"ok": true
+},
+{
+"id": "tmp10",
+"sec": "tmp",
+"n": 10,
+"page": 119,
+"name": "道路工程或行車線臨時封閉終止，連同標誌1至5使用",
+"ok": true
+},
+{
+"id": "tmp11",
+"sec": "tmp",
+"n": 11,
+"page": 119,
+"name": "連同標誌5使用，表示前面有髹線工程以配合道路",
+"ok": true
+},
+{
+"id": "tmp12",
+"sec": "tmp",
+"n": 12,
+"page": 119,
+"name": "行車線或道路臨時封閉",
+"ok": true
+},
+{
+"id": "tmp13",
+"sec": "tmp",
+"n": 13,
+"page": 119,
+"name": "向左急轉的臨時措施（符號方向相反則向右急轉）",
+"ok": true
+},
+{
+"id": "tmp14",
+"sec": "tmp",
+"n": 14,
+"page": 119,
+"name": "前面有人手操作的標誌",
+"ok": true
+},
+{
+"id": "tmp15",
+"sec": "tmp",
+"n": 15,
+"page": 119,
+"name": "人手操作的臨時「停」字標誌",
+"ok": true
+},
+{
+"id": "tmp16",
+"sec": "tmp",
+"n": 16,
+"page": 119,
+"name": "人手操作的臨時",
+"ok": true
+},
+{
+"id": "tmp17",
+"sec": "tmp",
+"n": 17,
+"page": 119,
+"name": "",
+"ok": false
+},
+{
+"id": "tmp18",
+"sec": "tmp",
+"n": 18,
+"page": 119,
+"name": "",
+"ok": false
+},
+{
+"id": "tmp19",
+"sec": "tmp",
+"n": 19,
+"page": 119,
+"name": "臨時交通",
+"ok": true
+},
+{
+"id": "tmp20",
+"sec": "tmp",
+"n": 20,
+"page": 119,
+"name": "",
+"ok": false
+},
+{
+"id": "tmp21",
+"sec": "tmp",
+"n": 21,
+"page": 119,
+"name": "",
+"ok": false
+},
+{
+"id": "tmp22",
+"sec": "tmp",
+"n": 22,
+"page": 119,
+"name": "",
+"ok": false
+},
+{
+"id": "tmp23",
+"sec": "tmp",
+"n": 23,
+"page": 120,
+"name": "前面道路封閉",
+"ok": true
+},
+{
+"id": "tmp24",
+"sec": "tmp",
+"n": 24,
+"page": 120,
+"name": "道路封閉",
+"ok": true
+},
+{
+"id": "tmp25",
+"sec": "tmp",
+"n": 25,
+"page": 120,
+"name": "臨時行車路線",
+"ok": true
+},
+{
+"id": "tmp26",
+"sec": "tmp",
+"n": 26,
+"page": 120,
+"name": "臨時行人路線",
+"ok": true
+},
+{
+"id": "tmp27",
+"sec": "tmp",
+"n": 27,
+"page": 120,
+"name": "連同臨時交通燈號使用，紅燈亮起時，須在標誌前停車。",
+"ok": true
+},
+{
+"id": "tmp28",
+"sec": "tmp",
+"n": 28,
+"page": 120,
+"name": "行人過路處臨時封閉",
+"ok": true
+},
+{
+"id": "tmp29",
+"sec": "tmp",
+"n": 29,
+"page": 120,
+"name": "所有車輛在前面所示距離改道行駛",
+"ok": true
+},
+{
+"id": "tmp30",
+"sec": "tmp",
+"n": 30,
+"page": 120,
+"name": "所有車輛臨時改道",
+"ok": true
+},
+{
+"id": "tmp31",
+"sec": "tmp",
+"n": 31,
+"page": 120,
+"name": "所有改道車輛的臨時路線",
+"ok": true
+},
+{
+"id": "tmp32",
+"sec": "tmp",
+"n": 32,
+"page": 120,
+"name": "改道終止",
+"ok": true
+},
+{
+"id": "tmp33",
+"sec": "tmp",
+"n": 33,
+"page": 120,
+"name": "前面路滑",
+"ok": true
+},
+{
+"id": "tmp34",
+"sec": "tmp",
+"n": 34,
+"page": 120,
+"name": "前面有鬆脫碎石",
+"ok": true
+},
+{
+"id": "tmp35",
+"sec": "tmp",
+"n": 35,
+"page": 120,
+"name": "前面路面不平",
+"ok": true
+},
+{
+"id": "tmp36",
+"sec": "tmp",
+"n": 36,
+"page": 120,
+"name": "慢駛(警方在緊急時使用的標誌)",
+"ok": true
+},
+{
+"id": "tmp37",
+"sec": "tmp",
+"n": 37,
+"page": 120,
+"name": "警告有路面工程",
+"ok": true
+},
+{
+"id": "tmp38",
+"sec": "tmp",
+"n": 38,
+"page": 120,
+"name": "前面有其他危險",
+"ok": true
+},
+{
+"id": "tmp39",
+"sec": "tmp",
+"n": 39,
+"page": 120,
+"name": "連同標誌38使用",
+"ok": true
+},
+{
+"id": "tmp40",
+"sec": "tmp",
+"n": 40,
+"page": 120,
+"name": "前面單排行車(用字",
+"ok": true
+},
+{
+"id": "tmp41",
+"sec": "tmp",
+"n": 41,
+"page": 120,
+"name": "慢駛，小心道路",
+"ok": true
+},
+{
+"id": "tmp42",
+"sec": "tmp",
+"n": 42,
+"page": 120,
+"name": "開始減速，前面有",
+"ok": true
+}
+]
